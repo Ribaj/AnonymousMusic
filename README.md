@@ -27,7 +27,7 @@
 ## 🚀 Heroku Deploy
 - Change the app region to Europe (it will help to make the bot stable)
   
-<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousBoy1025/AnonymousMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ribaj/AnonymousMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a></p>
 
 ## 🏃‍♂ Pyrogram Session
 
